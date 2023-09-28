@@ -14,8 +14,7 @@
 ```
 <h1 align = "center">BELAJAR HTML</h1>
 ```
-
-![Screenshot (196)](https://github.com/DimasF3009/Lab1web/assets/115356128/08ed1f0f-fe54-45df-9067-c91c301d520f)
+![pict2 1](https://github.com/DimasF3009/Lab1web/assets/115356128/af07e124-aa0d-4d89-ad85-955574b56929)
 
 ## Memformat teks
 ```
@@ -29,19 +28,31 @@
 
 
 ## Menyisipkan Gambar
-![pict4](https://github.com/DimasF3009/Lab1web/assets/115356128/943268dc-3c2a-4b9c-9ff3-97d652aa751a)
+```
+<div class="gambar">
+  <h3 align = "center">Menambahkan Gambar</h3>
+  <img src="upb.png" alt="logo UPB">
+</div>
+```
 
 ![pict4 1](https://github.com/DimasF3009/Lab1web/assets/115356128/93a6240a-4f11-480d-94a0-040e37a34b42)
 
 
 ## Menambahkan Hyperlink
-![pict5](https://github.com/DimasF3009/Lab1web/assets/115356128/61293011-d1f3-449d-8e96-30a7c59a7a07)
+```
+<a href="https://www.pelitabangsa.ac.id/">Universitas Pelita Bangsa.</a>
+```
 
 ![pict5 1](https://github.com/DimasF3009/Lab1web/assets/115356128/3c24611f-4fc3-4d76-95b7-43819264fd90)
 
-![pict6](https://github.com/DimasF3009/Lab1web/assets/115356128/22d68401-3425-4f5d-b790-fbeb43434307)
+```
+<div class="toogle">
+   <a href="web2.html"><button>Menuju page 2</button></a>
+</div>
+```
 
-![pict6](https://github.com/DimasF3009/Lab1web/assets/115356128/9d9eed57-f8ef-4b5c-9132-3f87d45aa11b)
+![pict6](https://github.com/DimasF3009/Lab1web/assets/115356128/3af2ff89-9049-41b8-acae-ec9dc12c787d)
+
 
 
 
