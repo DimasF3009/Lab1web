@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+   text-align: center;
+}
+
+.paragraf1,.paragraf2,.paragraf3,.paragraf4 {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 2px;
+    border-left: 2px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 1px solid;
+}
+.paragraf2 p ::selection{
+    background-color: yellow;
+    color: black;
+}
+
+.paragraf4 p{
+    color: red;
+}
+
+.gambar {
+    padding-left: 5px;
+    padding-right: 10px;
+    border-right: 2px;
+    border-left: 2px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 1px solid;
+}
+
+.gambar img{
+    display: block;
+    margin: auto;
+}
+.toogle {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
