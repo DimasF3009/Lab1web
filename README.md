@@ -65,5 +65,16 @@
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
    _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ```
-
+# Jawaban
+2. Tag <p> pada html diperuntukan untuk membuat paragraf sedangkan tag <br> pada html diperuntkan untuk membuat line break pada halaman html.
+3. Atribute <alt> pada tag <img> berfungsi sebagai pemberi deskripsi singkat sedang atribute <title> memberikan informasi tambahan kepada user tentang gambar.
+4. Tidak, mengisi salah satunya saja sudah cukup 
+   jika anda ingin mengisi keduanya maka itu akan mengatur gambar secaara presisi dan gambar yang ditampilkan akan persis dan tidak mengubah proporsinya
+   jika anda mengisi salah satunya maka akan mempertahankan proporsi gambar aslinya dan hanya mengubah ukuran gambar sesuai atribut yang diisi.
+5. _blank
+   Efek: Tautan akan membuka halaman yang terkait dalam jendela atau tab browser baru.
+   _self
+   Efek: Tautan akan membuka halaman yang terkait di jendela atau tab yang sama di mana tautan tersebut berada.
+   _top
+   Efek: Tautan akan membuka halaman yang terkait di jendela atau tab baru, menggantikan seluruh halaman web saat ini jika ada beberapa frame atau iframe.
 
