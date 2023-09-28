@@ -66,8 +66,8 @@
    _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ```
 # Jawaban
-2. Tag <p> pada html diperuntukan untuk membuat paragraf sedangkan tag <br> pada html diperuntkan untuk membuat line break pada halaman html.
-3. Atribute <alt> pada tag <img> berfungsi sebagai pemberi deskripsi singkat sedang atribute <title> memberikan informasi tambahan kepada user tentang gambar.
+2. Tag (<p>) pada html diperuntukan untuk membuat paragraf sedangkan tag '<br>' pada html diperuntkan untuk membuat line break pada halaman html.
+3. Atribute '<alt>' pada tag '<img>' berfungsi sebagai pemberi deskripsi singkat sedang atribute '<title>' memberikan informasi tambahan kepada user tentang gambar.
 4. Tidak, mengisi salah satunya saja sudah cukup 
    jika anda ingin mengisi keduanya maka itu akan mengatur gambar secaara presisi dan gambar yang ditampilkan akan persis dan tidak mengubah proporsinya
    jika anda mengisi salah satunya maka akan mempertahankan proporsi gambar aslinya dan hanya mengubah ukuran gambar sesuai atribut yang diisi.
