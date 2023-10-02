@@ -55,7 +55,7 @@
 
 # Hasil Akhir
 
-![Screenshot (199)](https://github.com/DimasF3009/Lab1web/assets/115356128/4f397302-4cb7-4169-bb8b-c6125a3b8d43)
+![Screenshot (200)](https://github.com/DimasF3009/Lab1web/assets/115356128/9de5ee0b-ab95-404f-844c-79fa601474cf)
 
 
 # Latihan Soal
