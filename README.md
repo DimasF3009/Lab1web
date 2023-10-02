@@ -53,6 +53,10 @@
 
 ![pict6](https://github.com/DimasF3009/Lab1web/assets/115356128/3af2ff89-9049-41b8-acae-ec9dc12c787d)
 
+# Hasil Akhir
+
+![Screenshot (199)](https://github.com/DimasF3009/Lab1web/assets/115356128/4f397302-4cb7-4169-bb8b-c6125a3b8d43)
+
 
 # Latihan Soal
 ```
